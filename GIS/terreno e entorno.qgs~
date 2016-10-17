@@ -32,10 +32,10 @@
   <mapcanvas>
     <units>degrees</units>
     <extent>
-      <xmin>-46.64148246314140067</xmin>
-      <ymin>-23.59764960477010121</ymin>
-      <xmax>-46.63153190784775859</xmax>
-      <ymax>-23.58837235159019841</ymax>
+      <xmin>-46.63932541637363727</xmin>
+      <ymin>-23.60020438753689476</ymin>
+      <xmax>-46.62937486107999518</xmax>
+      <ymax>-23.59092713435699196</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -125,7 +125,7 @@
   <projectlayers>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>curvas_todas20161011153451604</id>
-      <datasource>./curvas todas.shp</datasource>
+      <datasource>C:/Users/ferna/Dropbox/Arquitetura/AN5AU/Projeto de acessibilidade/faculdade_de_arquitetura/GIS/curvas todas.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -235,7 +235,7 @@
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>curvas_todas_WGS8420161011154042447</id>
-      <datasource>./curvas todas WGS84.shp</datasource>
+      <datasource>C:/Users/ferna/Dropbox/Arquitetura/AN5AU/Projeto de acessibilidade/faculdade_de_arquitetura/GIS/curvas todas WGS84.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -345,7 +345,7 @@
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>edificações20161011153356861</id>
-      <datasource>./edificações.shp</datasource>
+      <datasource>C:/Users/ferna/Dropbox/Arquitetura/AN5AU/Projeto de acessibilidade/faculdade_de_arquitetura/GIS/edificações.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -457,7 +457,7 @@
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>edificações_WGS8420161011154012374</id>
-      <datasource>./edificações WGS84.shp</datasource>
+      <datasource>C:/Users/ferna/Dropbox/Arquitetura/AN5AU/Projeto de acessibilidade/faculdade_de_arquitetura/GIS/edificações WGS84.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -569,7 +569,7 @@
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>quadras_viárias20161011153341854</id>
-      <datasource>./quadras viárias.shp</datasource>
+      <datasource>C:/Users/ferna/Dropbox/Arquitetura/AN5AU/Projeto de acessibilidade/faculdade_de_arquitetura/GIS/quadras viárias.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -675,7 +675,7 @@
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>quadras_viárias_WGS8420161011153848404</id>
-      <datasource>./quadras viárias WGS84.shp</datasource>
+      <datasource>C:/Users/ferna/Dropbox/Arquitetura/AN5AU/Projeto de acessibilidade/faculdade_de_arquitetura/GIS/quadras viárias WGS84.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -781,7 +781,7 @@
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>terreno20161011153333286</id>
-      <datasource>./terreno.shp</datasource>
+      <datasource>C:/Users/ferna/Dropbox/Arquitetura/AN5AU/Projeto de acessibilidade/faculdade_de_arquitetura/GIS/terreno.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -878,7 +878,7 @@
     </maplayer>
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>terreno_WGS8420161011153940593</id>
-      <datasource>./terreno WGS84.shp</datasource>
+      <datasource>C:/Users/ferna/Dropbox/Arquitetura/AN5AU/Projeto de acessibilidade/faculdade_de_arquitetura/GIS/terreno WGS84.shp</datasource>
       <keywordList>
         <value></value>
       </keywordList>
